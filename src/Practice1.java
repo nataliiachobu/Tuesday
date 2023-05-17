@@ -13,6 +13,7 @@ public class Practice1 {
         System.out.println(list.contains(122));
         System.out.println(list.poll());
         System.out.println(list);
+        //added new line from GitHub
 
 
     }
